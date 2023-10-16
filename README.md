@@ -1,0 +1,1 @@
+# На этом сайте использовался React + TypeScript + StyleComponents
